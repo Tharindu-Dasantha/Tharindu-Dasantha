@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharindu%20Dasantha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Tharindu-Dasantha&style=for-the-badge&color=gradient"/>
+<img src="https://komarev.com/ghpvc/?username=Tharindu-Dasantha&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -23,10 +23,16 @@
 name: Tharindu Dasantha
 role: UI/UX Designer & Full Stack Developer
 location: Sri Lanka
-focus: "Web Development", "UI/UX Design", "System Programming"
+focus:
+    - Web Development
+    - UI/UX Design
+    - System Programming
 favorite_language: C
 motto: "Simplicity is the ultimate sophistication"
-currently_learning: ["Advanced React Patterns", "System Design", "WebGL"]
+currently_learning:
+    - Advanced React Patterns
+    - System Design
+    - WebGL
 fun_fact: "I debug with console.log and I'm not ashamed! 🐛"
 ```
 

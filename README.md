@@ -3,8 +3,8 @@
         <div class="typing-animation">
             <div align="center">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=UI%2FUX+Designer+%26+Full+Stack+Developer;Crafting+Digital+Experiences+with+Code;Passionate+about+Clean+Code+%26+Beautiful+Design;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+                <img src="https://komarev.com/ghpvc/?username=Tharindu-Dasantha&style=for-the-badge&color=blue"/>
             </div>
-            <img align="center" src="https://komarev.com/ghpvc/?username=Tharindu-Dasantha&style=for-the-badge&color=blue"/>
         </div>
         <div class="title-section">
             <div class="category">UI/UX DESIGN • WEB DEVELOPMENT</div>

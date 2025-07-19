@@ -1,6 +1,9 @@
 <body>
     <div class="container">
         <div class="typing-animation">
+        <p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,go,py,flask,firebase,supabase,mysql,git,github,vscode,figma&perline=8" />
+</p>
             <div align="center">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=UI%2FUX+Designer+%26+Full+Stack+Developer;Crafting+Digital+Experiences+with+Code;Passionate+about+Clean+Code+%26+Beautiful+Design;Always+Learning%2C+Always+Building" alt="Typing SVG" />
             </div>

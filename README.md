@@ -1,4 +1,4 @@
-<body style="
+<div style="
     font-family: 'Inter', sans-serif;
     background: linear-gradient(135deg, #1a1a3a 0%, #2a2a4a 50%, #3a3a5a 100%);
     min-height: 100vh;
@@ -10,4 +10,4 @@
     z-index: 0;
 ">
 <div class="container"></div>
-</body>
+</div>

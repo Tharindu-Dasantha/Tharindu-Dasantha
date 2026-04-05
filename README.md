@@ -1,8 +1,8 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:1e293b,100:0ea5e9&text=Tharindu%20Dasantha&fontColor=ffffff&fontSize=44&fontAlignY=35&animation=fadeIn" alt="header" />
 
-  <h1>UI/UX Designer and Full-Stack Developer</h1>
-  <p>I design clean user experiences and build performant, production-ready web applications.</p>
+  <h1>UI/UX Engineer • Product-Minded Full-Stack Developer</h1>
+  <p>I design intuitive products and engineer robust web systems that feel great and scale cleanly.</p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1700&color=38BDF8&center=true&vCenter=true&width=900&lines=Designing+clean+products+that+users+love;Building+scalable+full-stack+applications;Open+to+challenging+UI%2FUX+and+engineering+roles" alt="typing animation" />
 
@@ -10,24 +10,40 @@
     <img src="https://komarev.com/ghpvc/?username=Tharindu-Dasantha&style=for-the-badge&color=0ea5e9" alt="profile views" />
     <img src="https://img.shields.io/github/followers/Tharindu-Dasantha?style=for-the-badge&color=1d4ed8&labelColor=0f172a" alt="followers" />
     <img src="https://img.shields.io/github/stars/Tharindu-Dasantha?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0284c7&labelColor=0f172a" alt="stars" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="open to work" />
   </p>
+
+  <img src="tharindu.png" width="140" alt="Tharindu" />
+</div>
+
+<div align="center">
+  <sub><strong>Design clarity × Engineering reliability</strong></sub>
 </div>
 
 ## What I Bring
 
-- Product-first thinking: I focus on solving real user problems, not just shipping code.
-- Strong UI execution: I turn complex ideas into clear, accessible interfaces.
-- Full-stack delivery: I can design, build, test, and deploy end-to-end features.
-- Performance mindset: I care about speed, maintainability, and reliability from day one.
+| UX/Product Strength | Engineering Strength |
+|---|---|
+| User journey mapping and friction removal | Scalable, maintainable full-stack architecture |
+| Visual hierarchy and interaction clarity | Reliable APIs, state management, and integrations |
+| Fast UI prototyping in Figma | Production delivery with CI/CD and testing mindset |
+| Accessibility and responsive design | Performance-focused implementation |
+
+## Design Engineering Approach
+
+- Discover: understand user pain points, task flows, and business goals.
+- Define: shape clear product decisions with measurable outcomes.
+- Design: craft accessible, consistent interfaces with design system thinking.
+- Deliver: implement production-ready code with clean architecture and performance in mind.
 
 ## Core Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nextjs,tailwind,nodejs,php,python,express,graphql,mysql,postgres,mongodb,redis,git,github,githubactions,docker,kubernetes,terraform,aws,azure,linux,jest,postman,vscode&perline=10" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,html,css,sass,tailwind,js,ts,react,nextjs,vue,nodejs,express,php,python,graphql,mysql,postgres,mongodb,redis,git,github,githubactions,docker,kubernetes,terraform,aws,azure,jest,postman,vscode,linux&perline=11" alt="skills" />
 </div>
 
 <div align="center">
-  <sub>Also experienced with: REST API design, authentication flows, responsive systems, performance optimization, and CI/CD delivery pipelines.</sub>
+  <sub>In-demand strengths: Design systems, component architecture, TypeScript-first frontend, API design, auth flows, CI/CD pipelines, cloud-native deployment basics, and performance optimization.</sub>
 </div>
 
 ## GitHub Stats
@@ -38,11 +54,16 @@
 
 ## Featured Work
 
-### [Taxi-Thissamaharama](https://github.com/Tharindu-Dasantha/Taxi-Thissamaharama)
-Transportation-focused project showcasing practical full-stack implementation and real-world UX flow.
+| Project | What It Shows | Focus Areas |
+|---|---|---|
+| [Taxi-Thissamaharama](https://github.com/Tharindu-Dasantha/Taxi-Thissamaharama) | Real-world transportation product flow and practical delivery | UX flow, booking logic, full-stack implementation |
+| [VisionWave](https://github.com/Tharindu-Dasantha/VisionWave) | Product-oriented interface with modern engineering structure | UI quality, usability, maintainable architecture |
 
-### [VisionWave](https://github.com/Tharindu-Dasantha/VisionWave)
-Product-focused project with emphasis on modern UI, usability, and maintainable architecture.
+## What You Can Expect Working With Me
+
+- Strong collaboration between design, product, and engineering.
+- Clean communication, clear timelines, and ownership from idea to release.
+- A balance of polish, speed, and technical quality.
 
 ## Activity Graph
 
@@ -52,10 +73,11 @@ Product-focused project with emphasis on modern UI, usability, and maintainable 
 
 ## Quick Snapshot For Recruiters
 
-- Role focus: UI/UX + Full-Stack Web Development
-- Work style: clean architecture, scalable code, iterative product improvement
-- Strengths: frontend design systems, API integration, and user-centered delivery
+- Role focus: UI/UX Engineering + Full-Stack Web Development
+- Best at: turning product requirements into usable interfaces and reliable features
+- Working style: iterative delivery, measurable improvements, and design-system consistency
 - Location: Sri Lanka
+- Open to: remote and collaborative product teams
 
 ## Let’s Connect
 
@@ -67,4 +89,8 @@ Product-focused project with emphasis on modern UI, usability, and maintainable 
 
 <div align="center">
   <sub>If you are hiring for a UI/UX or full-stack role, feel free to open an issue or connect through my GitHub profile.</sub>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:1e293b,100:0ea5e9" alt="footer" />
 </div>

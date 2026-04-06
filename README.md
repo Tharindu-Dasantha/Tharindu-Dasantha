@@ -71,13 +71,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharindu-Dasantha&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=e2e8f0&area=true&hide_border=true" alt="activity graph" />
 </div>
 
-## Quick Snapshot For Recruiters
-
-- Role focus: UI/UX Engineering + Full-Stack Web Development
-- Best at: turning product requirements into usable interfaces and reliable features
-- Working style: iterative delivery, measurable improvements, and design-system consistency
-- Location: Sri Lanka
-- Open to: remote and collaborative product teams
 
 ## Let’s Connect
 
@@ -85,10 +78,6 @@
   <a href="https://github.com/Tharindu-Dasantha">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
-<div align="center">
-  <sub>If you are hiring for a UI/UX or full-stack role, feel free to open an issue or connect through my GitHub profile.</sub>
 </div>
 
 <div align="center">

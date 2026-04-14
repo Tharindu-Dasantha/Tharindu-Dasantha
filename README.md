@@ -64,7 +64,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharindu-Dasantha&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=e2e8f0&area=true&hide_border=true" alt="activity graph" />
 </div>
 
-## Connect
+
+## Let’s Connect
 
 <div align="center">
   <a href="https://github.com/Tharindu-Dasantha">

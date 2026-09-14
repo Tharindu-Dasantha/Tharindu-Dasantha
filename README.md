@@ -1,10 +1,10 @@
 <div align="center">
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3a8a,40:2563eb,100:22d3ee&text=Tharindu%20Dasantha&fontColor=ffffff&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=e0f2fe" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:dbeafe,50:93c5fd,100:38bdf8&text=Tharindu%20Dasantha&fontColor=0f172a&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=1e3a8a" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3a8a,40:2563eb,100:22d3ee&text=Tharindu%20Dasantha&fontColor=ffffff&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=e0f2fe" alt="header" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&desc=Software%20Developer&descSize=15&fontSize=60&fontColor=0f172a" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&desc=Software%20Developer&descSize=15&fontSize=60&fontColor=0f172a" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&desc=Software%20Developer&descSize=15&fontSize=60&fontColor=0f172a" alt="footer" />
+  </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1600&color=22D3EE&center=true&vCenter=true&width=900&lines=Designing+interfaces+people+actually+enjoy;Engineering+systems+that+scale+without+drama;Turning+product+ideas+into+production+reality" />

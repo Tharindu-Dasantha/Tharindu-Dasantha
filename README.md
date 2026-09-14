@@ -1,9 +1,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&fontSize=60&fontColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&fontSize=60&fontColor=ffffff" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&fontSize=60&fontColor=ffffff" alt="header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&fontSize=60&fontColor=ffffff&fontAlignY=50" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&fontSize=60&fontColor=ffffff&fontAlignY=50" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Tharindu%20Dasantha&reversal=false&textBg=false&fontSize=60&fontColor=ffffff&fontAlignY=50" alt="header" />
   </picture>
 
 <picture>

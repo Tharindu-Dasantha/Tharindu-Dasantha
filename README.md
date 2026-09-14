@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- <picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1120,45:312e81,75:4338ca,100:22d3ee&text=Tharindu%20Dasantha&fontColor=f8fafc&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=cbd5e1" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:eef2ff,45:c7d2fe,75:818cf8,100:0ea5e9&text=Tharindu%20Dasantha&fontColor=1e1b4b&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=312e81" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1120,45:312e81,75:4338ca,100:22d3ee&text=Tharindu%20Dasantha&fontColor=f8fafc&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=cbd5e1" alt="header" />
-</picture> -->
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1600&color=22D3EE&center=true&vCenter=true&width=900&lines=Designing+interfaces+people+actually+enjoy;Engineering+systems+that+scale+without+drama;Turning+product+ideas+into+production+reality" />

@@ -1,9 +1,9 @@
 <div align="center">
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1120,45:312e81,75:4338ca,100:22d3ee&text=Tharindu%20Dasantha&fontColor=f8fafc&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=cbd5e1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:eef2ff,45:c7d2fe,75:818cf8,100:0ea5e9&text=Tharindu%20Dasantha&fontColor=1e1b4b&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=312e81" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1120,45:312e81,75:4338ca,100:22d3ee&text=Tharindu%20Dasantha&fontColor=f8fafc&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=cbd5e1" alt="header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3a8a,40:2563eb,100:22d3ee&text=Tharindu%20Dasantha&fontColor=ffffff&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=e0f2fe" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:dbeafe,50:93c5fd,100:38bdf8&text=Tharindu%20Dasantha&fontColor=0f172a&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=1e3a8a" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3a8a,40:2563eb,100:22d3ee&text=Tharindu%20Dasantha&fontColor=ffffff&fontSize=42&fontAlignY=36&animation=null&desc=UI/UX%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=e0f2fe" alt="header" />
 </picture>
 
 <picture>
@@ -133,8 +133,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1120,45:312e81,75:4338ca,100:22d3ee" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:eef2ff,45:c7d2fe,75:818cf8,100:0ea5e9" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1120,45:312e81,75:4338ca,100:22d3ee" alt="footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3a8a,40:2563eb,100:22d3ee" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:dbeafe,50:93c5fd,100:38bdf8" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3a8a,40:2563eb,100:22d3ee" alt="footer" />
   </picture>
 </div>

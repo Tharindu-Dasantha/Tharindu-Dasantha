@@ -114,6 +114,25 @@
   <sub>Design systems · Component architecture · TypeScript-first frontend · API design · Auth flows · CI/CD pipelines · Cloud-native deployment · Performance optimization</sub>
 </div>
 
+## GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharindu-Dasantha/Tharindu-Dasantha/main/profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tharindu-Dasantha/Tharindu-Dasantha/main/profile/stats-light.svg" />
+    <img height="165" src="https://raw.githubusercontent.com/Tharindu-Dasantha/Tharindu-Dasantha/main/profile/stats-dark.svg" alt="github stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharindu-Dasantha/Tharindu-Dasantha/main/profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tharindu-Dasantha/Tharindu-Dasantha/main/profile/top-langs-light.svg" />
+    <img height="165" src="https://raw.githubusercontent.com/Tharindu-Dasantha/Tharindu-Dasantha/main/profile/top-langs-dark.svg" alt="top languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Tharindu-Dasantha&hide_border=true&theme=tokyonight&background=0d1117" alt="streak stats" />
+</div>
+
 ## Let's Connect
 
 <div align="center">

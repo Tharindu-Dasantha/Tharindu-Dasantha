@@ -152,8 +152,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3a8a,40:2563eb,100:22d3ee" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:dbeafe,50:93c5fd,100:38bdf8" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3a8a,40:2563eb,100:22d3ee" alt="footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&desc=Software%20Developer&descSize=15&fontSize=60&section=footer&fontAlignY=12&descAlignY=70" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&desc=Software%20Developer&descSize=15&fontSize=60&section=footer&fontAlignY=12&descAlignY=70" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&desc=Software%20Developer&descSize=15&fontSize=60&section=footer&fontAlignY=12&descAlignY=70" alt="footer" />
   </picture>
 </div>

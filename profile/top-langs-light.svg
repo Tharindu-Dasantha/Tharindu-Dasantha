@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="224.37"
+          width="224.23"
           height="8"
           fill="#3572A5"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.37"
+          x="224.23"
           y="0"
-          width="14.52"
+          width="14.51"
           height="8"
           fill="#f34b7d"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.89000000000001"
+          x="238.73999999999998"
           y="0"
           width="15.11"
           height="8"
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.00000000000003"
+          x="243.85"
           y="0"
-          width="13.26"
+          width="13.41"
           height="8"
           fill="#555555"
         />
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.26000000000002"
+          x="247.26"
           y="0"
-          width="11.65"
+          width="11.64"
           height="8"
           fill="#f1e05a"
         />
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.91000000000003"
+          x="248.89999999999998"
           y="0"
           width="11.09"
           height="8"
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 89.75%
+        Python 89.69%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -220,7 +220,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 1.30%
+        C 1.36%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
